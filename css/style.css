@@ -1,0 +1,28 @@
+body {
+    font-family: sans-serif;
+}
+/* / form / */
+.form-container {
+    width: 400px;
+    margin: 0 auto;
+}
+.form-group {
+    padding: 10px;
+}
+.form-group input,
+.form-group textarea {
+    padding: 10px;
+    box-sizing: border-box;
+    width: 100%;
+}
+.form-group button {
+    cursor: pointer;
+    border:none;
+    background: rgb(23, 129, 199);
+    width: 100%;
+    padding: 12px;
+    color:#fff;
+}
+#btn {
+    border-radius: 10px;
+}
